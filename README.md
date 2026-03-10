@@ -13,9 +13,9 @@ Miał na celu stworzenie interaktywnej aplikacji w R Shiny, służącej do wizua
 ## Mój wkład w projekt
 Projekt był wykonany w zespole trzyosobowym. Mój wkład był następujący:
 * **Eksploracja danych**: Poszukiwania oraz wybór danych do projektu
-**Analiza i wizualizacja** w R (dplyr, ggplot2, shiny):
-* **Wykres kafelkowy** przedstawiający liczbę piosenek z poszczególnych albumów dla wybranej daty koncertu
-* **Wykres punktowy** przedstawiający analizę wybranej cechy (np. energia  (energy), akustyczność (acousticness)) dla kolejnych piosenek z setlisty koncertu. Możliwa jest opcja wyświetlenia linii trendu dla każdej z cech.
+* **Analiza i wizualizacja** w R (dplyr, ggplot2, shiny):
+   * **Wykres kafelkowy** przedstawiający liczbę piosenek z poszczególnych albumów dla wybranej daty koncertu
+   * **Wykres punktowy** przedstawiający analizę wybranej cechy (np. energia  (energy), akustyczność (acousticness)) dla kolejnych piosenek z setlisty koncertu. Możliwa jest opcja wyświetlenia linii trendu dla każdej z cech.
 
 ## Zawartość repozytorium
 * `app_final.R` - plik z całością kodu, który umożliwia uruchomienie interaktywnego dashboardu Shiny
