@@ -5,7 +5,7 @@ Projekt realizowany w ramach przedmiotu Wstęp do Eksploracji danych na kierunku
 Miał na celu stworzenie interaktywnej aplikacji w R Shiny, służącej do wizualizacji danych na temat trasy koncertowej The Eras Tour.
 
 ## Podgląd aplikacji
-<img width="1918" height="1017" alt="app1" src="https://github.com/user-attachments/assets/9b416809-03b2-47a6-b207-f20086ef7955" />
+<img width="1918" height="1017" alt="app2" src="https://github.com/user-attachments/assets/20cb72e0-0712-49db-875a-5d1d5443ed29" />
 <img width="1918" height="1020" alt="app3" src="https://github.com/user-attachments/assets/8bbd299d-eb34-4116-89f0-049c971e7ff7" />
 <img width="1918" height="1017" alt="app4" src="https://github.com/user-attachments/assets/4a0c1181-a057-4ea4-8264-bfb21514deb1" />
 <img width="1918" height="1017" alt="app5" src="https://github.com/user-attachments/assets/74c89070-0c8f-40c4-8e64-7381888b58a4" />
